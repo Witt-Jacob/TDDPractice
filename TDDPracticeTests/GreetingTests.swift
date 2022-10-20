@@ -60,6 +60,7 @@ class Greeter {
     private func greetStranger() -> String {
         return "Hello, my friend."
     }
+    
 }
 
 extension String {
